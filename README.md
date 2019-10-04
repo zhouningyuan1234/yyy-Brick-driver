@@ -13,7 +13,7 @@
       <span class="purple">
         搬砖规则:<br>
         在1~3个小时内不许动。<br>
-        每个月工资10积分。<br>
+        每个月工资1货币。<br>
       </span>
     </div>
 	</body>
